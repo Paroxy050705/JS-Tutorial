@@ -1,0 +1,17 @@
+#heading1{
+    color:rgb(206, 66, 11);
+    text-decoration: dashed;
+    background-color: yellow;
+    
+    
+}
+body{
+    background-color: pink;
+}
+button{
+    background-color: green;
+    color: black;
+}
+.myClass{
+color: red;
+}

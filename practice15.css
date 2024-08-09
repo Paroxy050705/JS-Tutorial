@@ -1,0 +1,9 @@
+.para{
+    background-color: red;
+    color:white;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
+.newpara{
+    background-color: green;
+}
